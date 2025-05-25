@@ -1,5 +1,4 @@
 # Sentiment Analysis Project
-
 This project analyzes smartphone reviews and classifies them into **positive**, **negative**, or **neutral** categories.
 
 ## 🔧 Tech Stack
